@@ -1354,6 +1354,7 @@
       "LP.CommissionEngine.Core.Calculator.Interfaces/1.0.0": {
         "dependencies": {
           "LP.CommissionEngine.Common.DataContract": "1.0.0",
+          "LP.CommissionEngine.DummyData": "1.0.0",
           "MySql.Data": "8.0.29",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.2"
         },
